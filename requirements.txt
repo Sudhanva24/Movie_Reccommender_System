@@ -6,3 +6,8 @@ optuna
 mlflow
 matplotlib
 seaborn
+huggingface
+transformers
+sentence-transformers
+fastapi 
+uvicorn
